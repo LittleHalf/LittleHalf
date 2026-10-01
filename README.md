@@ -5,7 +5,7 @@
 -->
 
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Anguished%20Face.png" width="40" align="top" alt="😧" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Anguished%20Face.png" width="36" align="top" alt="😧" />
   Hey! Nice to see you.
 </h1>
 
